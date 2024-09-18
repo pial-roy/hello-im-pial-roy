@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hello-im-pial-roy/static/css/main.d27f1b6f.css",
+    "main.js": "/hello-im-pial-roy/static/js/main.271a4695.js",
+    "static/js/453.7ef40760.chunk.js": "/hello-im-pial-roy/static/js/453.7ef40760.chunk.js",
+    "index.html": "/hello-im-pial-roy/index.html",
+    "main.d27f1b6f.css.map": "/hello-im-pial-roy/static/css/main.d27f1b6f.css.map",
+    "main.271a4695.js.map": "/hello-im-pial-roy/static/js/main.271a4695.js.map",
+    "453.7ef40760.chunk.js.map": "/hello-im-pial-roy/static/js/453.7ef40760.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27f1b6f.css",
+    "static/js/main.271a4695.js"
+  ]
+}
